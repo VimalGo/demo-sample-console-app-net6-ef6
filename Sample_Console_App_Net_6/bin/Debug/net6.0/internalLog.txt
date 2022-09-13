@@ -1,0 +1,129 @@
+2022-07-06 12:46:59.6220 Info Message Template Auto Format enabled
+2022-07-06 12:47:00.4850 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-07-06 12:47:01.3061 Info Adding target ConsoleTarget(Name=logConsole)
+2022-07-06 12:47:01.3731 Info Adding target FileTarget(Name=logFile)
+2022-07-06 12:47:01.4320 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-07-06 12:47:01.5627 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=37, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-07-06 12:47:01.6330 Info Configuration initialized.
+2022-07-06 12:47:01.9292 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-06 13:32:13.1751 Info Message Template Auto Format enabled
+2022-07-06 13:32:13.4584 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-07-06 13:32:13.6195 Info Adding target ConsoleTarget(Name=logConsole)
+2022-07-06 13:32:13.6948 Info Adding target FileTarget(Name=logFile)
+2022-07-06 13:32:13.8059 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-07-06 13:32:13.8557 Info Configuration initialized.
+2022-07-06 13:32:13.8741 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-06 13:33:42.2791 Info Message Template Auto Format enabled
+2022-07-06 13:33:42.7050 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-07-06 13:33:42.9106 Info Adding target ConsoleTarget(Name=logConsole)
+2022-07-06 13:33:42.9482 Info Adding target FileTarget(Name=logFile)
+2022-07-06 13:33:43.0690 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-07-06 13:33:43.1353 Info Configuration initialized.
+2022-07-06 13:33:43.1665 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-06 13:36:44.2775 Info Message Template Auto Format enabled
+2022-07-06 13:36:44.7328 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-07-06 13:36:44.9612 Info Adding target ConsoleTarget(Name=logConsole)
+2022-07-06 13:36:45.0872 Info Adding target FileTarget(Name=logFile)
+2022-07-06 13:36:45.1931 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-07-06 13:36:45.2630 Info Configuration initialized.
+2022-07-06 13:36:45.2949 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-06 13:37:41.5203 Info Message Template Auto Format enabled
+2022-07-06 13:37:41.9480 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-07-06 13:37:42.1762 Info Adding target ConsoleTarget(Name=logConsole)
+2022-07-06 13:37:42.2386 Info Adding target FileTarget(Name=logFile)
+2022-07-06 13:37:42.5522 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-07-06 13:37:42.7426 Info Configuration initialized.
+2022-07-06 13:37:42.7851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-06 13:38:02.0776 Info AppDomain Shutting down. LogFactory closing...
+2022-07-06 13:38:02.2415 Info LogFactory has been closed.
+2022-09-07 15:04:10.1546 Info Message Template Auto Format enabled
+2022-09-07 15:04:11.8805 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 15:04:13.4715 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 15:04:13.6192 Info Adding target FileTarget(Name=logFile)
+2022-09-07 15:04:14.4066 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 15:04:14.6340 Info Configuration initialized.
+2022-09-07 15:04:15.3112 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 15:06:15.3536 Info Message Template Auto Format enabled
+2022-09-07 15:06:16.4303 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 15:06:16.9874 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 15:06:17.0677 Info Adding target FileTarget(Name=logFile)
+2022-09-07 15:06:17.3657 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 15:06:17.5101 Info Configuration initialized.
+2022-09-07 15:06:17.5677 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 15:09:13.5649 Info Message Template Auto Format enabled
+2022-09-07 15:09:15.3716 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 15:09:15.7866 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 15:09:15.8608 Info Adding target FileTarget(Name=logFile)
+2022-09-07 15:09:16.1185 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 15:09:16.2695 Info Configuration initialized.
+2022-09-07 15:09:16.3348 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 15:12:45.7166 Info Message Template Auto Format enabled
+2022-09-07 15:12:47.0309 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 15:12:47.4822 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 15:12:47.5787 Info Adding target FileTarget(Name=logFile)
+2022-09-07 15:12:47.8272 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 15:12:47.9913 Info Configuration initialized.
+2022-09-07 15:12:48.0424 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 15:19:49.1486 Info Message Template Auto Format enabled
+2022-09-07 15:19:50.8378 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 15:19:51.3037 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 15:19:51.4516 Info Adding target FileTarget(Name=logFile)
+2022-09-07 15:19:51.8411 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 15:19:52.0564 Info Configuration initialized.
+2022-09-07 15:19:52.4679 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 15:28:09.0229 Info Message Template Auto Format enabled
+2022-09-07 15:28:09.9941 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 15:28:10.3638 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 15:28:10.4179 Info Adding target FileTarget(Name=logFile)
+2022-09-07 15:28:10.6164 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 15:28:10.7080 Info Configuration initialized.
+2022-09-07 15:28:10.8271 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 16:49:41.9182 Info Message Template Auto Format enabled
+2022-09-07 16:49:43.3172 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 16:49:44.0606 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 16:49:44.1216 Info Adding target FileTarget(Name=logFile)
+2022-09-07 16:49:44.5493 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 16:49:44.6874 Info Configuration initialized.
+2022-09-07 16:49:44.8310 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 16:54:44.8829 Info Message Template Auto Format enabled
+2022-09-07 16:54:46.0986 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 16:54:46.9100 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 16:54:46.9978 Info Adding target FileTarget(Name=logFile)
+2022-09-07 16:54:47.2644 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 16:54:47.4665 Info Configuration initialized.
+2022-09-07 16:54:47.6877 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-09-07 16:57:50.2430 Info Message Template Auto Format enabled
+2022-09-07 16:57:52.0501 Warn Error has been raised. Exception: NLog.NLogConfigurationException: 'ConsoleTarget' cannot assign unknown property 'fileName'='sample-console-app-log-${shortdate}.log'
+   at NLog.Internal.PropertyHelper.SetPropertyFromString(Object targetObject, String propertyName, String stringValue, ConfigurationItemFactory configurationItemFactory)
+   at NLog.Config.LoggingConfigurationParser.SetPropertyValueFromString(Object targetObject, String propertyName, String propertyValue, ValidatedConfigurationElement element)
+2022-09-07 16:57:53.0645 Info Adding target ConsoleTarget(Name=logConsole)
+2022-09-07 16:57:53.2025 Info Adding target FileTarget(Name=logFile)
+2022-09-07 16:57:53.6150 Info Validating config: TargetNames=logFile, logConsole, ConfigItems=36, FilePath=F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\bin\Debug\net6.0\NLog.config
+2022-09-07 16:57:53.9097 Info Configuration initialized.
+2022-09-07 16:57:54.4233 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False

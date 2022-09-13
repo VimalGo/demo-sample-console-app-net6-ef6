@@ -1,0 +1,77 @@
+2022-09-07 15:04:20.4484||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 15:04:21.0852||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 15:04:21.2638||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 15:04:26.2348||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 15:04:26.3527||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 15:04:28.7916||ERROR|Sample_Console_App_Net_6.Program|Stopped program because of exception. System.ArgumentException: The string argument 'connectionString' cannot be empty.
+   at Microsoft.EntityFrameworkCore.Utilities.Check.NotEmpty(String value, String parameterName)
+   at Microsoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions.UseSqlServer(DbContextOptionsBuilder optionsBuilder, String connectionString, Action`1 sqlServerOptionsAction)
+   at Sample_Console_App_Net_6.Context.ReadTextFile_And_StoreData_Context.OnConfiguring(DbContextOptionsBuilder optionsBuilder) in F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Context\ReadTextFile_And_StoreData_Context.cs:line 39
+   at Microsoft.EntityFrameworkCore.DbContext.get_ContextServices()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlInterpolated[TEntity](DbSet`1 source, FormattableString sql)
+   at Sample_Console_App_Net_6.Program.Main(String[] args) in F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Program.cs:line 88
+2022-09-07 15:06:18.6313||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 15:06:19.1813||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 15:06:19.2465||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 15:06:20.6546||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 15:06:20.6902||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 15:09:17.2973||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 15:09:17.8753||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 15:09:17.9880||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 15:09:19.3095||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 15:09:19.3259||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 15:12:49.0106||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 15:12:49.4202||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 15:12:49.4697||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 15:12:50.3954||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 15:12:50.3954||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 15:19:54.1386||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 15:19:54.9256||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 15:19:55.0029||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 15:19:56.1213||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 15:19:56.1418||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 15:28:11.4937||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 15:28:11.7919||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 15:28:11.8175||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 15:28:12.4214||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 15:28:12.4286||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 16:49:46.4992||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 16:49:48.1694||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 16:49:48.2958||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 16:49:48.7328||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 16:49:48.7693||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 16:54:50.1860||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 16:54:51.9500||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 16:54:52.0094||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           200          31/08/2022 10:36:04 AM  
+2022-09-07 16:54:52.1267||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"test_column_data1-Row1"~"test_column_data2-Row1"~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 16:54:52.1525||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	"Row2-Columns1"~"Row2-Column2"~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 16:55:28.5635||ERROR|Sample_Console_App_Net_6.Program|Stopped program because of exception. Microsoft.Data.SqlClient.SqlException (0x80131904): Error converting data type nvarchar to bigint.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.FromSqlQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.FromSqlQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Sample_Console_App_Net_6.Program.Main(String[] args) in F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Program.cs:line 89
+ClientConnectionId:14064062-bb91-48ca-b137-a6f65232c46c
+Error Number:8114,State:5,Class:16
+2022-09-07 16:57:56.0671||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Hello World 
+2022-09-07 16:57:57.9421||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Path: F:\My Data\My Projects\5.Practice Projects\Sample_Console_App_Net_6\Sample_Console_App_Net_6\Test Files\ 
+2022-09-07 16:57:57.9970||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - File Info: Sample_Test_File.txt           138          31/08/2022 10:36:04 AM  
+2022-09-07 16:57:58.1151||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	34646~2345~"test_column_data3-Row1"~"test_column_data4Row1"~"test_column_data5-Row1" 
+2022-09-07 16:57:58.1292||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - 	678~987~"Row3-Column3"~"Row4-Column4"~"Row5-Column5" 
+2022-09-07 16:58:16.4085||INFO|Sample_Console_App_Net_6.LogHelper|Sample Console App (Information) - Max Text Raw Data Id: 2 
