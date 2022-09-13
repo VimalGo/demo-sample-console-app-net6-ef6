@@ -5,8 +5,6 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample_Console_App_Net_6", "Sample_Console_App_Net_6\Sample_Console_App_Net_6.csproj", "{12B3849A-A539-4D5F-AE4D-9F88DD3315E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffold_Database", "Scaffold_Database\Scaffold_Database.csproj", "{5D0A170A-B413-4C96-9038-48B8EBF1C63E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
